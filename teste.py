@@ -1,2 +1,3 @@
-print(3)
-print(3)
+print('spfc')
+print('spfc2')
+print('spfc3')
